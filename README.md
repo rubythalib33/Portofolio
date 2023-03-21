@@ -1,73 +1,68 @@
 # Ruby Abdullah
-AI and Data Consultant
+## AI and Data Consultant
+
+Welcome to my portfolio! I am Ruby Abdullah, an experienced AI and data consultant with expertise in computer vision and image processing. Below are some of my notable projects and contributions:
 
 ## Computer Vision and Image Processing
 
 ### Hand Former Defect Detection MDI (2022)
-#### Associated with Widya Robotics, AI Engineer and Lead AI
-Defect Detection for auto QC in Hand Former Company MDI
+#### Widya Robotics, AI Engineer and Lead AI
+Developed a defect detection system for auto QC in Hand Former Company MDI.
 
 ### Yamaha Motor Part Manufacturing Indonesia Crack Detection (2022)
-#### Associated with Widya Robotics, AI Engineer and Lead AI
-Crack Detection for auto QC Material in Yamaha Motor Part Manufacturing Indonesia
+#### Widya Robotics, AI Engineer and Lead AI
+Developed a crack detection system for auto QC in Yamaha Motor Part Manufacturing Indonesia.
 
 ### Face Recognition Hi5 (2022)
-#### Associated with Widya Robotics, Lead AI team
-Face Recognition API for attendance
+#### Widya Robotics, Lead AI team
+Developed a face recognition API for attendance purposes.
 
 ### QHSE PT Adhi Perseda Beton Monitoring (2021)
-#### Associated with Widya Robotics, AI Engineer and Lead AI team
-QHSE Monitoring using PPE Detection for PT Adhi Perseda Beton
+#### Widya Robotics, AI Engineer and Lead AI team
+Developed a QHSE monitoring system using PPE detection for PT Adhi Perseda Beton.
 
 ### QHSE Waskita Monitoring (2021)
-#### Associated with Widya Robotics, AI Engineer and Lead AI team
-QHSE Monitoring using PPE Detection for PT Waskita
+#### Widya Robotics, AI Engineer and Lead AI team
+Developed a QHSE monitoring system using PPE detection for PT Waskita.
 
 ### Coconut Counter PT Nico Indococo (2021)
-#### Associated with Widya Robotics, AI Engineer and Lead AI team
-Coconut Counter System for PT Nico Indococo
+#### Widya Robotics, AI Engineer and Lead AI team
+Developed a coconut counter system for PT Nico Indococo.
 
 ### Touch Me (2021)
-#### Associated with Widya Robotics, AI Engineer and Lead AI team
-Skin Analyzer for Touch me App
+#### Widya Robotics, AI Engineer and Lead AI team
+Developed a skin analyzer for the Touch Me App.
 
 ### Gesture Recognition (2020)
-#### Associated with Widya Robotics, AI Engineer
-Automatic Gesture Recognition for Automatic Job Interview
+#### Widya Robotics, AI Engineer
+Developed an automatic gesture recognition system for automatic job interviews.
 
 ### Gaze Recognition (2020)
-#### Associated with Widya Robotics, AI Engineer
-Automatic Gaze Recognition for Automatic Job Interview
+#### Widya Robotics, AI Engineer
+Developed an automatic gaze recognition system for automatic job interviews.
 
 ## Open Source and Self Research
 
 ### VectorDB (2023)
 #### Developer & Researcher
-A simple vector database server using Boost Asio for handling TCP connections.
+Developed a simple vector database server using Boost Asio for handling TCP connections.
 
-
-url: https://github.com/rubythalib33/VectorDB
+Check it out at: https://github.com/rubythalib33/VectorDB
 
 ### Image Compression Folder (2022)
 #### Developer & Researcher
-- Reimplementation of SRGAN
-- Binary Compression
-- Image Compression Shrink Binary Compression with SRGAN Recovery
-- Image Compression Shrink and Binary Compression with SRGAN Recovery and binary restoration
-- Image Compression Shrink Binary Compression and EfficientSRGAN for low lattency of Recovery
+Re-implemented SRGAN, binary compression, and image compression using SRGAN recovery and binary restoration.
 
-
-url: https://github.com/rubythalib33/image-compression-folder
+Check it out at: https://github.com/rubythalib33/image-compression-folder
 
 ### 3D Torchvision (2022)
 #### Developer & Researcher
-3D torchvision with ImageNet Pretrained
+Developed 3D torchvision with ImageNet Pretrained.
 
-
-url: https://github.com/rubythalib33/3D-Torchvision
+Check it out at: https://github.com/rubythalib33/3D-Torchvision
 
 ### Ivy
 #### Open Source Contributor
-implement torch frontend API for GELU implementations
+Contributed to the implementation of a torch frontend API for GELU implementations.
 
-url: https://github.com/unifyai/ivy
+Check it out at: https://github.com/unifyai/ivy
