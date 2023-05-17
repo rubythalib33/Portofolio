@@ -29,6 +29,8 @@ Developed a crack detection system for auto QC in Yamaha Motor Part Manufacturin
 #### Indonesia AI, AI Engineer and Lead RnD Division
 The Jakarta, Indonesia Local Chapter aims to develop a project using drone cameras, computer vision, and artificial intelligence to enhance forest fire detection. By analyzing drone footage and utilizing advanced algorithms, the project aims to swiftly identify fire hotspots and alert authorities in real-time, contributing to environmental conservation and raising public awareness about forest fire prevention.
 
+note: the project is just a research project not until deployment
+
 ### Face Recognition Hi5 (2022)
 #### Widya Robotics, Lead AI team
 Developed a face recognition API for attendance purposes.
