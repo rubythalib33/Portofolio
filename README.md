@@ -5,6 +5,11 @@ Welcome to my portfolio! I am Ruby Abdullah, an experienced AI and data consulta
 
 ## Computer Vision and Image Processing
 
+### Knee X-Ray Analyzer (2023)
+#### AI Engineer
+- keypoint regressor
+- geometric function for data extraction from keypoint
+
 ### Document Analysis (2023)
 #### Lacak.io, AI Engineer
 - Optical Character Recognition
